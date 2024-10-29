@@ -1,0 +1,6 @@
+requests
+Pillow
+google-generativeai
+numpy
+opencv-python
+python-dotenv
